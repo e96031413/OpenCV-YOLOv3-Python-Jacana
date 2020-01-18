@@ -36,6 +36,6 @@ The result video will be saved in output/test.avi
 
 # Reference
 
-This project is based on the below articles:
+This project is based on the following articles:
 - https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 - https://cuda-chen.github.io/programming/2019/11/29/a-detailed-guide-of-yolo-on-opencv-python.html
