@@ -26,9 +26,9 @@ $ python yolo-video.py --input videos/test.mp4 --output output/test.avi --yolo y
 ```
 The result video will be saved in output/test.avi
 
-# Take a Look at the yolo-bird folder:
+# Take a Look at yolo-bird folder
 
-**We will have 3 files inside**
+**We have 3 files inside:**
 
 1. **voc-bird.names :** The name of the object
 2. **yolov3_10000.weights :** The weights we use as our detection model.
